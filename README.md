@@ -11,7 +11,7 @@ Install
 Simply clone this repository, you can for example do it in your openvpn repository.
 
     $ cd /etc/openvpn
-    $ git clone https://github.com/Fr3ya/openvpn-routes-configuration.git
+    $ git clone https://github.com/hegusung/openvpn-routes-configuration.git
     
 How to use
 ----------
